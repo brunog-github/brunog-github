@@ -1,8 +1,8 @@
 # Oii! Eu sou  o Bruno!
  <div>
   <a href="https://github.com/brunog-github">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunog-github&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunog-github&layout=compact&langs_count=7&theme=light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunog-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunog-github&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Minhas Tecnologias Favoritas!
@@ -21,4 +21,4 @@
   <a href="https://instagram.com/bruno91748" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bruno4775" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:bruno.g.p897@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+ </div>
