@@ -19,13 +19,13 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2021 - 18 September, 2021
+Week: 13 September, 2021 - 19 September, 2021
 
-TypeScript   9 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.19 % 
-Kotlin       6 hrs 50 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 % 
-XML          1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JavaScript   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript   8 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.07 % 
+Kotlin       4 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
+XML          1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+JavaScript   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
  
