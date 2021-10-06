@@ -19,11 +19,11 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 04 October, 2021
+Week: 29 September, 2021 - 05 October, 2021
 
-TypeScript   4 hrs 39 mins   ███████████████████████▓░   94.18 % 
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript   6 hrs 21 mins   ███████████████████████▒░   92.78 % 
+JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
  
