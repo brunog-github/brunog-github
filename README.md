@@ -19,11 +19,12 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-TypeScript   1 hr 25 mins    █████████████▒░░░░░░░░░░░   53.90 % 
-Dart         1 hr 9 mins     ███████████░░░░░░░░░░░░░░   43.95 % 
-Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript   1 hr 46 mins    ████████████████████▓░░░░   82.93 % 
+JSON         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+XML          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Groovy       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
  
