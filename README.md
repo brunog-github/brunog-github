@@ -19,7 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 TypeScript   6 hrs 56 mins   █████████████████░░░░░░░░   67.79 % 
 Kotlin       2 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 % 
