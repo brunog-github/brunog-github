@@ -19,11 +19,10 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
-TypeScript   1 hr 26 mins    ████████████▓░░░░░░░░░░░░   50.99 % 
-Kotlin       1 hr 21 mins    ████████████░░░░░░░░░░░░░   47.92 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript   1 hr 26 mins    ████████████████████████▒   97.92 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
  
