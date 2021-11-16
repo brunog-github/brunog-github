@@ -19,10 +19,11 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2021 - 14 November, 2021
+Week: 09 November, 2021 - 15 November, 2021
 
-TypeScript   1 hr 26 mins    ████████████████████████▒   97.92 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript   1 hr 2 mins     █████████████████████▓░░░   86.61 % 
+JSON         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
  
