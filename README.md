@@ -19,7 +19,9 @@
   
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 December, 2021 - 21 December, 2021
+
+TypeScript   10 mins         █████████████████████████   99.95 % 
 ```
 <!--END_SECTION:waka-->
  
