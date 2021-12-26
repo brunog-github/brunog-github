@@ -19,7 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 Kotlin       15 mins         ██████████████▒░░░░░░░░░░   57.90 % 
 TypeScript   10 mins         █████████▓░░░░░░░░░░░░░░░   39.10 % 
