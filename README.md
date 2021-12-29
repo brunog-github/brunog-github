@@ -19,10 +19,9 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-Kotlin       15 mins         ██████████████▒░░░░░░░░░░   57.90 % 
-TypeScript   10 mins         █████████▓░░░░░░░░░░░░░░░   39.10 % 
+Kotlin   15 mins         ███████████████████████▓░   95.12 % 
 ```
 <!--END_SECTION:waka-->
  
