@@ -19,9 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
-
-Kotlin   15 mins         ███████████████████████▓░   95.12 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
