@@ -19,7 +19,12 @@
   
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 December, 2021 - 31 December, 2021
+
+Groovy           27 mins         █████████████░░░░░░░░░░░░   51.50 % 
+XML              20 mins         █████████▓░░░░░░░░░░░░░░░   38.49 % 
+GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Kotlin           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 <!--END_SECTION:waka-->
  
