@@ -19,7 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 Groovy           27 mins         █████████████░░░░░░░░░░░░   51.50 % 
 XML              20 mins         █████████▓░░░░░░░░░░░░░░░   38.49 % 
