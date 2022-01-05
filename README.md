@@ -19,12 +19,13 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Groovy           27 mins         █████████████░░░░░░░░░░░░   51.50 % 
-XML              20 mins         █████████▓░░░░░░░░░░░░░░░   38.49 % 
-GitIgnore file   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Kotlin           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Groovy           30 mins         ██████████▓░░░░░░░░░░░░░░   42.90 % 
+XML              20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.67 % 
+JSON             13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+GitIgnore file   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Kotlin           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 <!--END_SECTION:waka-->
  
