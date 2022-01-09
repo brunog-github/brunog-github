@@ -19,7 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
 JSON     13 mins         █████████████████████▓░░░   86.04 % 
 Groovy   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
