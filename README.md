@@ -19,10 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
-
-JSON     13 mins         █████████████████████▓░░░   86.04 % 
-Groovy   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
