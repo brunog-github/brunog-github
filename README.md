@@ -19,7 +19,9 @@
   
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 January, 2022 - 15 January, 2022
+
+XML              39 mins         █████████████████████████   99.71 % 
 ```
 <!--END_SECTION:waka-->
  
