@@ -19,9 +19,11 @@
   
  <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-XML              39 mins         █████████████████████████   99.71 % 
+XML              52 mins         ██████████████▒░░░░░░░░░░   57.04 % 
+Kotlin           37 mins         ██████████▒░░░░░░░░░░░░░░   40.82 % 
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
  
