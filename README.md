@@ -35,4 +35,6 @@ GitIgnore file   1 min           ▒░░░░░░░░░░░░░░�
   <a href="https://instagram.com/bruno91748" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bruno4775" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:bruno.g.p897@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://g.dev/brunodev"><img src="https://assets.thehansindia.com/hansindia-bucket/google_7926.jpg" target="_blank" width=90 height=50></a>
  </div>
+ 
