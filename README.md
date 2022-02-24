@@ -19,7 +19,7 @@
   
  <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
 Kotlin           31 mins         █████████████████▒░░░░░░░   69.07 % 
 Java             10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
