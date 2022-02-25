@@ -19,11 +19,9 @@
   
  <!--START_SECTION:waka-->
 ```text
-From: 16 February, 2022 - To: 23 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-Kotlin           31 mins         █████████████████▒░░░░░░░   69.07 % 
-Java             10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
-GitIgnore file   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Java   10 mins         ████████████████████████▒   96.71 % 
 ```
 <!--END_SECTION:waka-->
  
