@@ -18,11 +18,11 @@
 </div><br>
   
  <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Java   10 mins         ████████████████████████▒   96.71 % 
+```text
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
  
  
