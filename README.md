@@ -20,11 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
-
-Kotlin   1 hr 8 mins     ███████████████████████▓░   94.12 %
-Java     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
