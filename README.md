@@ -20,13 +20,13 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2022 - To: 18 May 2022
+From: 12 May 2022 - To: 19 May 2022
 
-Kotlin           4 hrs 31 mins   ███████████████████░░░░░░   75.40 %
-XML              1 hr 20 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Groovy           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Kotlin           3 hrs 30 mins   █████████████████████▓░░░   86.96 %
+XML              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Groovy           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
