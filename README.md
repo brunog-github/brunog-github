@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2022 - To: 28 May 2022
+From: 22 May 2022 - To: 29 May 2022
 
 C++              3 hrs 54 mins   ████████████████▓░░░░░░░░   67.03 %
 Kotlin           1 hr 47 mins    ███████▓░░░░░░░░░░░░░░░░░   30.65 %
