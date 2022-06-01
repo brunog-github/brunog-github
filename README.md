@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2022 - To: 30 May 2022
+From: 24 May 2022 - To: 31 May 2022
 
 C++          3 hrs 54 mins   ████████████████████████▓   98.39 %
 JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
