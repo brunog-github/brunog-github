@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
 Kotlin           1 hr            ███████████████▓░░░░░░░░░   62.08 %
 Groovy           20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
