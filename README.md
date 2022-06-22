@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
 XML                    1 hr 42 mins    ████████████░░░░░░░░░░░░░   48.16 %
 Kotlin                 1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.13 %
