@@ -20,11 +20,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 20 July 2022 - To: 27 July 2022
+From: 21 July 2022 - To: 28 July 2022
 
-Kotlin   4 hrs 43 mins   ████████████████████████▓   98.12 %
-XML      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin   3 hrs 5 mins    █████████████████████████   99.40 %
+XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
