@@ -20,9 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 24 July 2022 - To: 31 July 2022
-
-Kotlin   2 hrs 17 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
