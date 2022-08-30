@@ -20,7 +20,13 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 August 2022 - To: 29 August 2022
+
+Groovy           12 mins         █████████████░░░░░░░░░░░░   52.40 %
+Kotlin           8 mins          █████████░░░░░░░░░░░░░░░░   35.53 %
+GitIgnore file   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
