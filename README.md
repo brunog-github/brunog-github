@@ -20,7 +20,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 September 2022 - To: 14 September 2022
+
+Kotlin   2 hrs 3 mins    ████████████████████████▓   99.22 %
+Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
