@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
 Kotlin           25 mins         █████████████▓░░░░░░░░░░░   55.19 %
 Groovy           9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.88 %
