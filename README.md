@@ -20,14 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
-
-Groovy       8 mins          ██████████████░░░░░░░░░░░   55.98 %
-XML          3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Properties   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Kotlin       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Gradle       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Prolog       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
