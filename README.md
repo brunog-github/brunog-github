@@ -20,7 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
 XML              57 mins         ███████████▒░░░░░░░░░░░░░   45.35 %
 Kotlin           43 mins         ████████▒░░░░░░░░░░░░░░░░   33.76 %
