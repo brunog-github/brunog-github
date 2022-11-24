@@ -20,14 +20,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
-
-XML              56 mins         ███████████▓░░░░░░░░░░░░░   46.61 %
-Kotlin           37 mins         ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-Groovy           16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Gradle           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
