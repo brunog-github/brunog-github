@@ -20,7 +20,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 November 2022 - To: 24 November 2022
+
+Kotlin   30 mins         █████████████████████▒░░░   84.94 %
+Gradle   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+XML      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
