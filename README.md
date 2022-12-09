@@ -17,10 +17,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-Kotlin   1 hr 27 mins    █████████████████▓░░░░░░░   71.13 %
-XML      35 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Kotlin   1 hr 26 mins    ██████████████████░░░░░░░   71.36 %
+XML      34 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 %
 ```
 
 <!--END_SECTION:waka-->
