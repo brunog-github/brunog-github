@@ -17,11 +17,7 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
-
-Kotlin   1 hr 55 mins    ███████████████████▓░░░░░   79.04 %
-XML      27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Java     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
