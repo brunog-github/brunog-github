@@ -17,7 +17,11 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 January 2023 - To: 22 January 2023
+
+Kotlin   1 hr 4 mins     ████████████████████████▒   97.38 %
+Gradle   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
