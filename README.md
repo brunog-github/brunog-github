@@ -17,11 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
+From: 20 January 2023 - To: 27 January 2023
 
-Kotlin   1 hr 4 mins     ████████████████████████▒   97.38 %
-Gradle   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Kotlin       1 hr 46 mins    █████████████████████▒░░░   84.85 %
+XML          11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Gradle       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Groovy       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
