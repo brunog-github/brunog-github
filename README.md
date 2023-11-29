@@ -17,13 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-Kotlin            8 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.83 %
-TypeScript        3 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-Java              3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-YAML              49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Docker            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Kotlin            8 hrs 7 mins    ████████████▓░░░░░░░░░░░░   50.43 %
+TypeScript        3 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+Java              2 hrs 35 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Prisma            21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+YAML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
