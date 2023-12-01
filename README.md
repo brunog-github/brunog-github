@@ -17,13 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-Kotlin            8 hrs 7 mins    █████████████████▒░░░░░░░   69.24 %
-Java              2 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-YAML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-TypeScript        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-textmate          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Kotlin            8 hrs 7 mins    ██████████████▓░░░░░░░░░░   58.94 %
+Java              5 hrs 7 mins    █████████▒░░░░░░░░░░░░░░░   37.16 %
+textmate          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+GitIgnore file    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+YAML              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
