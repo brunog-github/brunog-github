@@ -17,13 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-TypeScript   8 hrs 27 mins   ███████████▒░░░░░░░░░░░░░   44.71 %
-Kotlin       5 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-Other        2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Prisma       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TypeScript   10 hrs 10 mins  ████████████░░░░░░░░░░░░░   48.19 %
+Kotlin       5 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+Other        2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+JSON         52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Prisma       49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
