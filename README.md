@@ -17,13 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Kotlin            9 hrs 58 mins   ███████████████████████▓░   94.50 %
-YAML              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Properties        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-HOCON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-textmate          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Kotlin           4 hrs 44 mins   ████████████████████████▓   98.90 %
+HOCON            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
