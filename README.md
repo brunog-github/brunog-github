@@ -17,7 +17,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
 Kotlin            2 hrs 48 mins   ██████████████████████▒░░   89.56 %
 HOCON             17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
