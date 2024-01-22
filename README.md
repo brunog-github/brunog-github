@@ -17,13 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
-Kotlin            5 hrs 33 mins   ███████████████████████▓░   94.64 %
-HOCON             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-GitIgnore file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Properties        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Kotlin            4 hrs 28 mins   ███████████████████████▓░   94.33 %
+HOCON             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+GitIgnore file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
