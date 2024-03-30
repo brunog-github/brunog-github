@@ -17,13 +17,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2024 - To: 28 March 2024
+From: 22 March 2024 - To: 29 March 2024
 
-Kotlin            3 hrs 35 mins   ████████████████████▒░░░░   80.94 %
-SCSS              28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-HTML              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-TypeScript        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-YAML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Kotlin            3 hrs 35 mins   ████████████████████████▒   97.70 %
+YAML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
