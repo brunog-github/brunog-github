@@ -17,12 +17,13 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-Kotlin            3 hrs 35 mins   ████████████████████████▒   97.70 %
-YAML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Kotlin            3 hrs 37 mins   ████████████████████░░░░░   80.55 %
+Java              21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+SQL               14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+YAML              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Text              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
