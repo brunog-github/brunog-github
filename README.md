@@ -17,7 +17,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
 Kotlin   56 mins         █████████████████░░░░░░░░   68.60 %
 Java     25 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
