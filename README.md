@@ -17,11 +17,10 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Kotlin   56 mins         █████████████████░░░░░░░░   68.60 %
-Java     25 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Kotlin   56 mins         ██████████████████████▒░░   89.53 %
+Java     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
 ```
 
 <!--END_SECTION:waka-->
