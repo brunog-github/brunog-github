@@ -17,13 +17,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2024 - To: 03 May 2024
+From: 27 April 2024 - To: 04 May 2024
 
-CSS           25 mins         ████████████▒░░░░░░░░░░░░   48.70 %
-JavaScript    24 mins         ████████████░░░░░░░░░░░░░   47.70 %
-HTML          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
