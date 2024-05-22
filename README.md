@@ -17,9 +17,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-No activity tracked
+Kotlin   6 hrs           █████████████████████▒░░░   85.28 %
+HOCON    30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+SQL      19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+XML      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
