@@ -17,9 +17,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
-No activity tracked
+HTML          19 mins         ██████████████▒░░░░░░░░░░   57.77 %
+CSS           13 mins         █████████▓░░░░░░░░░░░░░░░   38.76 %
+Image (svg)   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
