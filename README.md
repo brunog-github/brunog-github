@@ -17,7 +17,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
 CSS           40 mins         ███████████░░░░░░░░░░░░░░   43.82 %
 HTML          38 mins         ██████████▓░░░░░░░░░░░░░░   42.41 %
