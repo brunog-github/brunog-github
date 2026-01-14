@@ -1,9 +1,4 @@
 # Oii! Eu sou  o Bruno!
- <div>
-  <a href="https://github.com/brunog-github">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunog-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunog-github&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ## Minhas Tecnologias Favoritas!
 <div style="display: inline_block">
